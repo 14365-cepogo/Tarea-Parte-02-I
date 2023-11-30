@@ -1,0 +1,22 @@
+body {
+    background-image: url('/img/woman-7977101-min.jpg');
+    background-size: cover;
+    min-height: 90vh;
+}
+.container{
+    margin-top: 50px;
+    width: 80%;
+    max-width: 700px;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.glyphicon-fire{
+    font-size:900%;
+    color: yellow;
+	text-shadow: 8px 8px 8px #ac7507;
+}
+.d-2{
+    text-align: center;
+}
